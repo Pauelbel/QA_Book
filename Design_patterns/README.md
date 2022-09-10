@@ -4,8 +4,8 @@
 
 ## SLOID
 
-- [SRP](Design_patterns/SOLID/SRP.py)
-- [OCP](Design_patterns/SOLID/OCP.py)
+- [SRP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/SOLID/SRP.py)
+- [OCP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/SOLID/OCP.py)
 
 
 
