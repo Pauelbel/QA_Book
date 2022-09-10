@@ -5,7 +5,7 @@
 ## SLOID
 
 - [SRP](Design_patterns/SOLID/SRP.py)
-
+- [OCP](Design_patterns/SOLID/OCP.py)
 
 
 
