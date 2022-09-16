@@ -4,11 +4,11 @@
 
 ## SLOID
 
--:white_check_mark [SRP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/SRP.py)
--:white_check_mark [OCP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/OCP.py)
--:white_check_mark [LSP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/LSP.py)
--:white_check_mark [ISP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/ISP.py)
--:white_check_mark [DIP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/DIP.py)
+- :white_check_mark [SRP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/SRP.py)
+- :white_check_mark [OCP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/OCP.py)
+- :white_check_mark [LSP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/LSP.py)
+- :white_check_mark [ISP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/ISP.py)
+- :white_check_mark [DIP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/DIP.py)
 
 
 ## Шаблоны
