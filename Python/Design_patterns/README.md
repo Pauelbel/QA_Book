@@ -4,11 +4,11 @@
 
 ## SLOID
 
-- [SRP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/SRP.py) [x] 
-- [OCP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/OCP.py) [x] 
-- [LSP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/LSP.py) [x] 
-- [ISP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/ISP.py) [x] 
-- [DIP.py](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/DIP.py) [x] 
+- [SRP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/SRP.py) - [x] 
+- [OCP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/OCP.py) - [x] 
+- [LSP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/LSP.py) - [x] 
+- [ISP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/ISP.py) - [x] 
+- [DIP](https://github.com/Pauelbel/Courses/blob/main/Design_patterns/_SOLID/DIP.py) - [x] 
 
 
 ## Шаблоны
