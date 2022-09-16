@@ -7,5 +7,5 @@
 
 | Название                                       | Описание                                                             
 |------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-|[[Илья Фофанов] Шаблоны проектирования на Python](https://github.com/Pauelbel/Notes/tree/main/Python/Design_patterns)|                                   |
-|[[OTUS] Разработчик Golang (2019)](https://github.com/Pauelbel/Notes/tree/main/Golang)|                                                                  |
+|[[Илья Фофанов] Шаблоны проектирования на Python](https://github.com/Pauelbel/Notes/tree/main/Courses/Design_patterns_python)|                           |
+|[[OTUS] Разработчик Golang (2019)](https://github.com/Pauelbel/Notes/tree/main/Courses/Golang_developer)|                                                |
