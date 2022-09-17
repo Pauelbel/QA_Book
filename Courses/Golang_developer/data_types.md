@@ -30,3 +30,12 @@
 << -left shift  - integer << unsigned integer
 >> -right shift - integer >> unsigned integer
 ```
+
+## Строки
+```
+s := "hello world"       // создавать
+var c byte = s[0]        // получать доступ к байту(!) в строке
+var s2 string = s[5:10]  // получать подстроку (в байтах!)
+s2 := s + " again"       // склеивать
+l := len(s)              // узнавать длину в байтах
+```
