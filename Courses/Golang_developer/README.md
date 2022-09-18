@@ -1,6 +1,6 @@
 ## Сылки
 
-- [докумментация](https://go.dev/doc/)
+- [Докумментация](https://go.dev/doc/)
 - [Шпаргалка](Cheat_Sheet.pdf)
 
 ## Установка (fedora)
