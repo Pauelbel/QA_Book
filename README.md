@@ -29,4 +29,4 @@
 Записки про обеспечение и управление качеством на проекте
 
 - [QA](/QA)
-    - [Software life cycle IEEE](/QA/Software_life_cycle/SLC_IEEE)
+    - [Software life cycle IEEE](/QA/SLC_IEEE)
