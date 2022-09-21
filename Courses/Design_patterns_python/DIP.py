@@ -4,8 +4,6 @@
 Высокоуровневые модули не должны зависеть от низкоуровневых
 """
 
-
-
 from abc import abstractmethod
 from enum import Enum
 
