@@ -34,7 +34,7 @@
 - **JPEG**
 - **MIDI**
 
-**9.  Сеансовый (session)** - отвечает за поддержание сеанса связи, позволяя приложениям
+**9.  Сеансовый (session)** - отвечает за поддержание сеанса связи
 
 - **ADSP**, Протокол потоков данных AppleTalk (англ. AppleTalk Data Stream Protocol)
 - **ASP**, Сеансовый протокол AppleTalk (англ. AppleTalk Session Protocol)
