@@ -1,0 +1,10 @@
+version: '3'
+
+# создать 2 контейнера
+services:
+  # Первый из директории с приложением app.py из находящегося там Dockerfile
+  app:
+    build: ./app
+  # Второй из официального образа mongo
+  mongo:
+    image: mongo

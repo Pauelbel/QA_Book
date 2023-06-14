@@ -18,16 +18,16 @@
 - KVM
 - Vmware
 
-[Конетейнеризация](/Conetainerization/)
+[Конетейнеризация](Containerization)
 
-- [Docker](/Conetainerization/Docker/)
+- [Docker](Containerization/Docker)
 - k8s
 
 [Непрерывная интеграция и развертывание](/CI_CD/)
 
 - Jenkins
 
-[Системы управления конфигурациями](/configuration_management_systems/)
+[Системы управления конфигурациями](Configuration_management_systems)
 
 - Ansible
 - Terraform
