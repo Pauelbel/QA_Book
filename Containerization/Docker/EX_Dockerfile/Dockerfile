@@ -12,8 +12,6 @@ LABEL 'maintainer'=${name}
 # Запускаем все команды от рута
 USER root
 
-
-
 # Устанавливаем дополнительные пакеты, необходимые для нашего приложения
 RUN apt-get update && apt-get install -y \
     build-essential \
